@@ -1,50 +1,5 @@
 # [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# Everything Tech Resources & Projects
-
-<p align="center">
-  <img width="360" src="roadmap.jpeg">
-</p>
-
-## **This repo is still quite new and we are working on adding as many learning resources and projects as possible, so please do bear with us**
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-Coming from an engineering background and looking to up skill yourself on a new field can be difficult. So I’ve decided to embark on a project that is dear to our hearts. ♥️ ♥️ ♥️
-
-This repository will contain a list of FREE resources, projects and hands-on exercises for you to attempt and up skill yourself so that you can find a role in your respective field. This project will be focused on those trying to enter the Tech field (like Software Engineering 👨‍💻, DevOps 🛠, Cloud 🌩, Cyber Security 🛡, Data Science/Engineering 📊, Machine Learning etc 🤖) 🆓
-
-The project will be maintained by the community FOR the community! 🚀  We currently have experts 😎 in the field who are already contributing to this project.
-
-## Who is this for?
-
-Everyone. This is a platform which will enable individuals across all levels to learn new technologies and/or validate their existing knowledge.
-
-## Want to contribute ?
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-We currently have a dedicated Slack workspace - if you are serious about contributing, please send a message to any one of the below maintainers of this prroject and we will add you to the workspace.
-
-- [Mohamed](https://linkedin.com/in/mohamed-abukar)
-- [Abdirahman J](https://www.linkedin.com/in/abdirahman-jama-b3204412b)
-- [Adam](https://www.linkedin.com/in/adam-osman-90)
-- [Abdurahman A](https://www.linkedin.com/in/a-abukar/)
-
-**This repo is still quite new and we are working on adding as many learning resources and projects as possible, so please do bear with us** 
-
-If you have a suggestion or project idea that would make this better, please fork the repo and create a pull request or raise an issue. You can also simply open an issue with the tag "project-addition" or a tag you deem suitable.
-
-Don't forget to give the project a star! Thanks again! ♥️
-
-## Steps to make a PR (pull-request):
-
-1. Fork the project
-2. Create your branch (`git checkout -b patch`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin patch`)
-5. Raise a pull request
 
 ## Links to Resources
 
