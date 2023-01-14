@@ -90,6 +90,13 @@ HAPPY LEARNING 📌
 
 - [Git Started with GitHub - FREE](https://www.udemy.com/course/git-started-with-github/)
 
+
+### webserver
+
+
+
+
+
 ### Databases 
 
 - [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - FREE](https://youtu.be/4cWkVbC2bNE)
@@ -132,6 +139,10 @@ HAPPY LEARNING 📌
 
 
 
+### Docker Swarm
+
+
+
 ### Jenkins 
 
 - [Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners | DevOps Training | Edureka - PAID](https://youtu.be/3a8KsB5wJDE)
@@ -143,11 +154,20 @@ HAPPY LEARNING 📌
 
 ### GitLab CI
 
-- []
+- [GitLab CI CD Tutorial for Beginners [Crash Course] - FREE](https://youtu.be/qP8kir2GUgo)
 
 - [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker - FREE](https://www.youtube.com/watch?v=R8_veQiYBjI)
 
+- [DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS - FREE](https://youtu.be/PGyhBwLyK2U)
+
+- [GITLAB CI CD FULL COURSE IN 3 HOURS | Gitlab CI CD From Zero To Hero - FREE](https://youtu.be/Typ9U6k6g5s)
+
 - [GitLab CI: Pipelines, CI/CD and DevOps for Beginners - PAID ](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/) 
+
+
+### Team City
+
+
 
 
 
@@ -223,18 +243,89 @@ HAPPY LEARNING 📌
 
 ### Kubernetes
 
+- [Kubernetes Tutorial - FREE](https://www.tutorialspoint.com/kubernetes/index.htm)
 
+- [Kubernetes Tutorial for Beginners: Basics, Features, Architecture - FREE](https://www.guru99.com/kubernetes-tutorial.html)
+
+- [Kubernetes Certified Administrator resource by Walid Shaari - FREE - CKA](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
+
+- [Kubernetes for the Absolute Beginners - Hands-on - PAID](https://www.udemy.com/course/learn-kubernetes/?src=sac&kw=kubernetes+for+abs)
+
+- [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - FREE](https://youtu.be/X48VuDVv0do)
+
+- [Kubernetes Made Easy: Learn Kubernetes From Scratch - PAID](https://www.udemy.com/course/kubernetes-made-easy/)
+
+- [Kubernetes Tutorial for Beginners - K8s - FREE](https://www.youtube.com/watch?v=X48VuDVv0do)
+
+- [Kubernetes CKS 2023 Complete Course - Theory - Practice - PAID](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
+
+- [Kubernetes Tutorials For Beginners: 39 Comprehensive Guides - FREE](https://devopscube.com/kubernetes-tutorials-beginners/)
+
+- [Certified Kubernetes Security Specialist Rescource by Walid Shaari - FREE - CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+
+- [Certified Kubernetes Administrator (CKA) with Practice Tests - PAID](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) 
+
+- [Kubernetes & Istio Service Mesh - FREE](https://www.youtube.com/playlist?list=PL34sAs7_26wPkw9g-5NQPP_rHVzApGpKP)
+
+
+### Helm
+
+- [What is Helm in Kubernetes? Helm and Helm Charts explained | Kubernetes Tutorial 23 - FREE](https://youtu.be/-ykwb1d0DXU)
+
+- [Creating your first Helm chart - FREE](https://youtu.be/3GPpm2nZb2s)
+
+- [Creating your first Helm chart - Package management for K8s - FREE](https://www.youtube.com/watch?v=3GPpm2nZb2s) 
+
+- [What is Helm? - FREE](https://youtu.be/fy8SHvNZGeE)
+
+- [What is Helm? | Helm Concepts Explained | KodeKloud -FREE](https://youtu.be/kJscDZfHXrQ)
+
+
+### Managed containers (EKS/AKS/GKE)
+
+- [AWS EKS Kubernetes-Masterclass | DevOps, Microservices - PAID](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/)
+
+- [Introduction To Azure Kubernetes Service (AKS) | Azure Container Service | Azure Training | Edureka - FREE](https://youtu.be/o5qkgsyfRao)
+
+- [AWS Kubernetes Tutorial | AWS EKS Tutorial | Kubernetes on AWS - FREE](https://youtu.be/U3SowMbnqBw)
+
+- [ Amazon EKS Starter: Docker on AWS EKS with Kubernetes = PAID](https://www.udemy.com/course/amazon-eks-starter-kubernetes-on-aws/)
+
+- [Deploy to Azure Kubernetes (AKS) from Azure DevOps with Azure Pipelines | Build LIVE with Me - FREE](https://youtu.be/4Oa5HneTuKs)
+
+- [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy - FREE](https://youtu.be/DcnviAwmzM4)
+
+- [Azure Kubernetes Service with Azure DevOps and Terraform - PAID - AKS](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/) 
+
+- [How to create AKS Cluster | Setting Up & Deploying an Azure Kubernetes Service Cluster | K21Academy - FREE](https://youtu.be/NnwQZyi0BAs)
+
+- [Google Kubernetes Engine Tutorial | Kubernetes and Google Container Engine | Intellipaat -FREE](https://youtu.be/R_LaWVUo7Z4)
+
+
+### OpenShift
+
+- [Introduction to Red Hat OpenShift Container Platform -FREE](https://youtu.be/dAWPuqZwlOA)
+
+- [OpenShift for the Absolute Beginners - Hands-on - PAID](https://www.udemy.com/course/learn-openshift/)
+
+- [Ultimate Openshift (2021) Bootcamp by School of Devops - PAID](https://www.udemy.com/course/ultimate-openshift-bootcamp-by-school-of-devops/)
 
 
 ### Terraform
 
+- [Learn DevOps: Infrastructure Automation With Terraform -PAID](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
+
 - [Terraform Course - Automate your AWS cloud infrastructure - FREE](https://www.youtube.com/watch?v=SLB_c_ayRMo)
+
+- [Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos -PAID](https://www.udemy.com/course/terraform-on-aws-eks-kubernetes-iac-sre-50-real-world-demos/)
 
 - [Terraform for DevOps Beginners + Labs: Complete Step by Step Guide - FREE](https://www.youtube.com/watch?v=YcJ9IeukJL8) 
 
 - [HashiCorp Certified: Terraform Associate 2021 - PAID](https://www.udemy.com/course/terraform-beginner-to-advanced/) 
 
 - [HashiCorp Terraform Associate Certification Course - FREE](https://www.youtube.com/watch?v=V4waklkBC38) 
+
+- [Terraform & IaC Bootcamp 2023 - PAID](https://www.udemy.com/course/terraform-iac-bootcamp/)
 
 - [Azure DevOps: Provision API Infrastructure using Terraform - Full Course - FREE](https://www.youtube.com/watch?v=Ff0DoAmpv6w&t=6032s)
 
@@ -266,33 +357,75 @@ HAPPY LEARNING 📌
 - [Python Documentaions](https://docs.python.org/)
 
 
-### Containers (Docker and Kubernetes aka K8s)
+### GoLang
+
+- [Learn Go Programming - Golang Tutorial for Beginners - FREE](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
 
-- [Docker and Kubernetes Tutorial - Full Course - FREE](https://www.youtube.com/watch?v=bhBSlnQcq2k)
-
-- [Kubernetes Tutorial for Beginners - K8s - FREE](https://www.youtube.com/watch?v=X48VuDVv0do)
-
-- [Docker and Kubernetes: The Complete Guide - FREE](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) 
-
-- [Kubernetes for the Absolute Beginners - Hands-on - PAID](https://www.udemy.com/course/learn-kubernetes/?src=sac&kw=kubernetes+for+abs) 
-
-- [Certified Kubernetes Administrator (CKA) with Practice Tests - PAID](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) 
-
-- [Kubernetes Certified Administrator resource by Walid Shaari - FREE - CKA](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
-
-- [Certified Kubernetes Security Specialist Rescource by Walid Shaari - FREE - CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+### JavaScript
 
 
-### Managed containers (EKS/AKS/GKE)
+###  Ansible
 
-- [AWS EKS Kubernetes-Masterclass | DevOps, Microservices - PAID](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/) 
+- [Ansible Full Course | Ansible Tutorial For Beginners | Learn Ansible Step By Step | Simplilearn - FREE](https://youtu.be/EcnqJbxBcM0)
 
-- [Azure Kubernetes Service with Azure DevOps and Terraform - PAID - AKS](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/) 
+- [Learn Ansible Automation in 250+examples & practical lessons - PAID](https://www.udemy.com/course/ansible-by-examples-devops/)
 
-### Serverless
+- [Automation with Ansible Playbooks - Hands On - PAID](https://www.udemy.com/course/automation-with-ansible/)
 
-- [Link 1]()
+- [Ansible 101 by jeff Geerling - FREE](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
+
+- [Ansible Full Course | Ansible Training | Learn Ansible for Beginners | Edureka - FREE](https://youtu.be/9Ua2b06oAr4)
+
+- [Ansible Full Course | 34 Topics in 2 Hours | Ansible Tutorial for Beginners - FREE](https://youtu.be/Wr8zAU-0uR4)
+
+- [Ansible Complete Tutorial | Learn Complete Ansible From Basic To Advanced Level | Nehra Classes - FREE](https://youtu.be/q8MX_ldXrt8)
+
+
+
+### Puppet
+
+
+### Chef
+
+
+
+### Prometheus
+
+- [Prometheus | The Complete Hands-On for Monitoring & Alerting - PAID](https://www.udemy.com/course/prometheus-course/)
+
+- [Prometheus Tutorial | Monitoring with Prometheus And Grafana | Prometheus Grafana Tutorial | Edureka -FREE](https://youtu.be/7gW5pSM6dlU)
+
+- [Prometheus Tutorial - Monitoring with Prometheus And Grafana - Prometheus Grafana Tutorial - FREE](https://www.youtube.com/watch?v=7gW5pSM6dlU) 
+
+- [Monitoring using Prometheus and Grafana | ADAM -FREE](https://youtu.be/cF2P9d7rBlg)
+
+- [Prometheus MasterClass : DevOps Infra Monitoring & Alerting - FREE](https://www.udemy.com/course/prometheus-monitoring/)
+
+
+
+### Grafana
+
+
+
+
+
+### DataDog
+
+
+
+### New Relic
+
+
+
+
+### ELK
+
+
+
+### Splunk
+
+
 
 ### More-open source tools and more things to consider learning
 
@@ -300,14 +433,8 @@ HAPPY LEARNING 📌
 
 - [ArgoCD Kubernetes - PAID](https://www.youtube.com/playlist?list=PL34sAs7_26wMW4bWKnMIfEd87aPuw75by) 
 
-- [Prometheus Tutorial - Monitoring with Prometheus And Grafana - Prometheus Grafana Tutorial - FREE](https://www.youtube.com/watch?v=7gW5pSM6dlU) 
+ 
 
-- [Learn Go Programming - Golang Tutorial for Beginners - FREE](https://www.youtube.com/watch?v=YS4e4q9oBaU) 
 
-- [Ansible 101 by jeff Geerling - FREE](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
-
-- [Kubernetes & Istio Service Mesh - FREE](https://www.youtube.com/playlist?list=PL34sAs7_26wPkw9g-5NQPP_rHVzApGpKP)
-
-- [Creating your first Helm chart - Package management for K8s - FREE](https://www.youtube.com/watch?v=3GPpm2nZb2s) 
 
 - [Google Cloud Digital Leader Certification Course - FREE](https://www.youtube.com/watch?v=UGRDM86MBIQ) 
