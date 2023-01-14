@@ -145,6 +145,9 @@
 
 ## Docker
 
+
+- [The Ultimate Docker Course - PAID](https://codewithmosh.com/p/the-ultimate-docker-course)
+
 - [Docker Courses - PAID](https://www.pluralsight.com/browse/it-ops/docker?aid=7010a000002LUv2AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=XYZ_EMEA_Dynamic&utm_content=&cq_cmp=1576650371&gclid=Cj0KCQiAn4SeBhCwARIsANeF9DIEP_XiZ_lfjXmW4r7CjWh9ljwBr1goWeDG2x1lpStr1xgcw7scuTMaAnSxEALw_wcB)
 
 - [Docker Tutorial for Beginners - FREE](https://docker-curriculum.com/)
@@ -309,7 +312,13 @@
 
 - [Google Cloud Professional Cloud Architect - PAID - GCP Professional Cloud Architect by Antoni Tzavelas](https://training.antonit.com/p/google-cloud-professional-cloud-architect)
 
-- []()
+- [Google Cloud Fundamentals 101 : A quick guide to learn GCP - FREE](https://www.udemy.com/course/google-cloud-fundamentals-101-a-quick-guide-to-learn-gcp/)
+
+- [GCP - Google Cloud Platform Concepts - FREE](https://www.udemy.com/course/gcp-google-cloud-platform-concepts/)
+
+- [Google Cloud Platform MasterClass : 4 GCP Certification in 1 - FREE](https://www.udemy.com/course/google-cloud-platform-masterclass/)
+
+- [Google Cloud Basics: Compute Engine - FREE](https://www.udemy.com/course/google-cloud-basics-compute-engine/)
 
 
 ## Yaml
@@ -445,8 +454,41 @@
 
 - [Learn Go Programming - Golang Tutorial for Beginners - FREE](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
+- [Learn How To Code: Google's Go (golang) Programming Language - PAID](https://www.udemy.com/course/learn-how-to-code/)
+
+- [Learn Go for Beginners Crash Course (Golang) - PAID](https://www.udemy.com/course/go-programming-language-crash-course/)
+
+- [Go (Golang) Programming: The Complete Go Bootcamp 2023 - PAID](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/)
+
+- [Learn Go Programming - Golang Tutorial for Beginners - FREE](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+
+- [Learn Go Programming by Building 11 Projects – Full Course- FREE](https://youtu.be/jFfo23yIWac)
+
+- [Golang Tutorial for Beginners | Full Go Course - FREE](https://youtu.be/yyUHQIec83I)
+
+
+## Ruby
+
+- [Ruby Programming Language - Full Course - FREE](https://youtu.be/t_ispmWmdjY)
+
+- [Learn to Code with Ruby -PAID](https://www.udemy.com/course/learn-to-code-with-ruby-lang/)
+
 
 ## JavaScript
+
+- [The Complete JavaScript Course 2023: From Zero to Expert! - PAID](https://www.udemy.com/course/the-complete-javascript-course/)
+
+- [The Ultimate Full-stack JavaScript Developer Bundle - PAID](https://codewithmosh.com/p/full-stack-javascript-developer-bundle)
+
+- [JavaScript Tutorial for Beginners: Learn JavaScript - FREE](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+- [Learn JavaScript - Full Course for Beginners - FREE](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
+- [JavaScript Full Course [8 hours] | JavaScript Tutorial For Beginners | JavaScript Training | Edureka - FREE](https://youtu.be/-nEXa4oh4bc)
+
+- [JavaScript Tutorial For Beginners - Full Course In 11 Hours | Learn JavaScript | Great Learning - FREE](https://youtu.be/g1X6b5tRvrw)
+
+- [JavaScript Fundamentals For Beginners -FREE](https://youtu.be/vEROU2XtPR8)
 
 
 ##  Ansible
@@ -468,6 +510,8 @@
 
 
 ## Puppet
+
+
 
 
 ## Chef
@@ -577,9 +621,6 @@
 ## Bonus
 
 - [Harvard CS50 – Full Computer Science University Course](https://youtu.be/8mAITcNt710)
-
-
-- [ArgoCD Kubernetes - PAID](https://www.youtube.com/playlist?list=PL34sAs7_26wMW4bWKnMIfEd87aPuw75by) 
 
  
 ## How to get a Job Fast
