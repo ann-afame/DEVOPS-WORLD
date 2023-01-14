@@ -33,6 +33,8 @@
 
 - [Linux Mastery - Paid](https://www.udemy.com/course/linux-mastery/) 
 
+- [Linux Full Course | Linux Tutorial For Beginners | 6+ Hours of Linux FREE](https://youtu.be/8usykf7J30g)
+
 - [Linux Administration Tutorial | Linux Tutorial | Linux Course | Intellipaat - FREE](https://www.youtube.com/watch?v=aaEoyVIowk8)
 
 - [Linux Tutorial for Beginners: Introduction to Linux Operating System - FREE](https://youtu.be/V1y-mbWM3B8)
@@ -511,10 +513,24 @@
 
 ## Puppet
 
+- [Puppet Full Course | Learn Puppet Step By Step | Puppet Tutorial For Beginners - FREE](https://youtu.be/F-NGOvYiV9g)
 
+- [Puppet Full Course | Learn Puppet Training | Puppet Tutorial for Beginners | Learn Devops - FREE](https://youtu.be/Ns_tRKD20c4)
+
+- [Master Puppet for DevOps Success - PAID](https://www.udemy.com/course/power-puppet/)
+
+-[Master Automation with Ansible and Puppet: 4-in-1 - PAID](https://www.udemy.com/course/master-automation-with-ansible-and-puppet-4-in-1/)
 
 
 ## Chef
+
+- [Chef Tutorial For Beginners - Part 1 | DevOps Chef Tutorial | DevOps Tools - FREE](https://youtu.be/LTIjUJEehDA)
+
+- [CHEF Full Course Video - FREE](https://youtube.com/playlist?list=PLmNmekbKZkr0FQVc-QOZcBUWaORxhhDnA)
+
+- [CHEF Tutorial - FREE](https://www.youtube.com/watch?v=4aaK2rzzOLc&list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT)
+
+- [The Ultimate Chef Training Course: DevOps Automation - PAID](https://www.udemy.com/course/the-ultimate-chef-training-course-devops-automation/)
 
 
 
@@ -534,7 +550,17 @@
 
 ## Grafana
 
+- [Grafana Tutorial For Beginners | Continuous Monitoring With Grafana | DevOps Training - FREE](https://youtu.be/w-c3KYKQQfs)
 
+- [Installing Grafana on a Linux Server - FREE](https://youtu.be/xkQ7AgBwGq0)
+
+- [Grafana Course for Beginners | Learn Grafana | Grafana Tutorials - FREE](https://youtu.be/CjABEnRg9NI)
+
+- [Guide to Grafana 101: Getting Started With (Awesome) Visualizations - FREE](https://youtu.be/oPumWaoNw5s)
+
+- [Setup Prometheus & Grafana Monitoring On Kubernetes Using Helm = FREE](https://youtu.be/dk2-_DbWb80)
+
+- [Become Expert on Grafana Dashboard - PAID](https://www.udemy.com/course/become-expert-on-grafana-dashboard/)
 
 
 
@@ -611,7 +637,7 @@
 
 ## DevOps Certification Path Way
 
-[DevOps Certificate](https://devopscube.com/best-devops-certifications/)
+TAP ⏩ [DevOps Certificate](https://devopscube.com/best-devops-certifications/)
 
 ![WhatsApp Image 2023-01-14 at 18 12 34](https://user-images.githubusercontent.com/85270361/212485937-b82b9821-bcf8-4366-98a5-e10e166489c1.jpg)
 
@@ -619,6 +645,8 @@
 
 
 ## Bonus
+
+- [CompTIA A+ Full Course - FREE - [31+ Hours]](https://youtu.be/1CZXXNKAY5o)
 
 - [Harvard CS50 – Full Computer Science University Course](https://youtu.be/8mAITcNt710)
 
@@ -705,16 +733,17 @@ projects. ✅✅✅
 
 Four Ace to Landing Your Dream Jobs
 
-• Learn The Skills
-                 ⬇
-• Work on Real Projects (Build Your Portfolio) 
-                 ⬇
-• Prep Your Resume and Your LinkedIn 
-                 ⬇
-• Start Applying 
-                 ⬇
-• Land your dream Jobs
+```
+• Learn The Skills 
 
+• Work on Real Projects (Build Your Portfolio)
+
+• Prep Your Resume and Your LinkedIn 
+
+• Start Applying 
+
+• Land your dream Jobs
+```
 
 ## SITE FOR RESUME
 
@@ -737,5 +766,50 @@ Four Ace to Landing Your Dream Jobs
 - [Acetheinterview](https://www.acetheinterview.com/)
 - [Gainlo](http://www.gainlo.co/#!/)
 
+
+
+## DevOps Projects
+
+- [Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins - FREEE](https://youtu.be/Z9G5stlXoyg)
+
+- [DevOps-Projects FREE](https://youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt)
+
+- [Simple DevOps Projects - Part 1 | DevOps Projects for Beginners | DevOps Training FREE](https://youtu.be/PwSZpcl7vUE)
+
+- [Simple DevOps Project | DevOps Projects for Beginners | DevOps Project from Scratch FREE](https://youtu.be/cnA6AwUeiHU)
+
+- [Simple DevOps Project-2 | CI/CD pipeline using GIT, Jenkins & Ansible FREE](https://youtu.be/nE4b9mW2ym0)
+
+- [Simple DevOps Project-3 | DevOps project with Git, Jenkins and Docker on AWS | CICD on containers - FREE](https://youtu.be/nMLQgXf8tZ0)
+
+- [Simple DevOps Projects - Part 2 | DevOps Projects for Beginners | DevOps Training | Edureka FREE](https://youtu.be/EXdmo4OoB4Q)
+
+- [Simple DevOps Projects - Part 3 | DevOps Projects for Beginners | DevOps Training | Edureka FREE](https://youtu.be/qEKZLZYwO9o)
+
+- [Simple DevOps Project-4 - Part-01 | How To Create a Docker Image Using Jenkins And Ansible FREE](https://youtu.be/MJ74RcL6jv8)
+
+- [DevOps Project 2021 - How to Learn DevOps Through a Practical Project FREE](https://youtu.be/oif22pmFMuI)
+
+- [Simple DevOps Project - Troubleshooting steps FREE](https://youtu.be/ndo6ezzcT98)
+
+- [Simple DevOps Project-4 - Part 03 | Enable versioning on docker images through jenkins job FREE](https://www.youtube.com/watch?v=vU7K94Pt2yQ)
+
+- [Complete DevOps Project | Github, Docker, Dockerhub, Git, Jenkins, Ansible FREE](https://www.youtube.com/watch?v=gvk9jZz0P6s)
+
+- [Simple DevOps Projects - Simple DevOps Projects #1 |DevOps Jenkins CI/CD project Apache Tomcat maven FREE](https://youtu.be/4TRfvlU7W90)
+
+- [sample devops end to end project v1- devops project | ci/cd declarative pipeline using devops tools FREE](https://youtu.be/nP6uei3TBsc)
+
+- [Complete END to END Azure DevOps Tutorials Series with Practical's Full Course in 4 Hours ](https://www.youtube.com/watch?v=7YMWthE6RTY)
+
+- [ DevOps Setup for Test, Build and Deploy a Java Project | DevOps Project to Build, Test and Deploy FREE](https://youtu.be/vQRSRo7Ef7c)
+
+- [DevOps Project Part-2 | Setting up CI-CD Pipeline for an E-Commerce App | DevOps Training | Edureka FREE](https://www.youtube.com/watch?v=3ixEo13ZdsU)
+
+- [AWS Projects for beginners | Deploying End to End Website on AWS FREE](https://youtu.be/7Gym2XVcA5A)
+
+- [AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS FREE](https://youtu.be/NwzJCSPSPZs)
+
+- [DevOps Project | Creating CI CD Pipeline Using Jenkins | Intellipaat FREE](https://youtu.be/7lazzvm1ljo)
 
 
