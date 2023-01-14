@@ -16,7 +16,7 @@ HAPPY LEARNING 📌
 - [DevOps Prerequisites Course - Getting started with DevOps - FREE](https://youtu.be/Wvf0mBNGjXY)
 
 
-### NETWOKING
+## NETWOKING
 
 - [Networking Tutorial for Beginners || Computer Networking Full Course by Network Engineer. - FREE](https://youtu.be/0uflG0SemyM)
 
@@ -27,7 +27,7 @@ HAPPY LEARNING 📌
 - [Network Fundementals Playlists - FREE](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) 
 
 
-### Linux
+## Linux
 
 - [Introduction to Linux EDX - FREE](https://www.edx.org/course/introduction-to-linux?utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=637513_Admitad+GmbH&awc=6798_1673649259_e8f4c73b037a5c763f3fbbbb50bbc676)
 
@@ -45,7 +45,7 @@ HAPPY LEARNING 📌
 
 
 
-### SHELL SCRITING
+## SHELL SCRITING
 
 - [Shell Scripting Crash Course - Beginner Level - FREE](https://youtu.be/v-F3YLd6oMw)
 
@@ -66,7 +66,7 @@ HAPPY LEARNING 📌
 - [Shell Scripting Tutorial: How to Create Shell Script in Linux/Unix - FREE](https://www.guru99.com/introduction-to-shell-scripting.html)
 
 
-### Git (version control)
+## Git (version control)
 
 - [Git Tutorial for Beginners: Learn Git in 1 Hour - FREE](https://youtu.be/8JJ101D3knE)
 
@@ -93,13 +93,13 @@ HAPPY LEARNING 📌
 - [Git Started with GitHub - FREE](https://www.udemy.com/course/git-started-with-github/)
 
 
-### webserver
+## webserver
 
 
 
 
 
-### Databases 
+## Databases 
 
 - [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - FREE](https://youtu.be/4cWkVbC2bNE)
 
@@ -112,12 +112,12 @@ HAPPY LEARNING 📌
 - [MySQL Tutorial for Beginners [Full Course] - FREE](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
 
-### Artifact Repository Manager
+## Artifact Repository Manager
 
 - [Nexus Repository | Nexus Repository DevOps | DevOps Tool | Intellipaat - FREE](https://youtu.be/yZFvJEygn_g)
 
 
-### Docker
+## Docker
 
 - [Docker Courses - PAID](https://www.pluralsight.com/browse/it-ops/docker?aid=7010a000002LUv2AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=XYZ_EMEA_Dynamic&utm_content=&cq_cmp=1576650371&gclid=Cj0KCQiAn4SeBhCwARIsANeF9DIEP_XiZ_lfjXmW4r7CjWh9ljwBr1goWeDG2x1lpStr1xgcw7scuTMaAnSxEALw_wcB)
 
@@ -141,11 +141,11 @@ HAPPY LEARNING 📌
 
 
 
-### Docker Swarm
+## Docker Swarm
 
 
 
-### Jenkins 
+## Jenkins 
 
 - [Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners | DevOps Training | Edureka - PAID](https://youtu.be/3a8KsB5wJDE)
 
@@ -154,7 +154,7 @@ HAPPY LEARNING 📌
 - [Jenkins Full Course - Jenkins Tutorial For Beginners - Jenkins Tutorial - FREE](https://www.youtube.com/watch?v=FX322RVNGj4)
 
 
-### GitLab CI
+## GitLab CI
 
 - [GitLab CI CD Tutorial for Beginners [Crash Course] - FREE](https://youtu.be/qP8kir2GUgo)
 
@@ -167,13 +167,13 @@ HAPPY LEARNING 📌
 - [GitLab CI: Pipelines, CI/CD and DevOps for Beginners - PAID ](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/) 
 
 
-### Team City
+## Team City
 
 
 
 
 
-### SSH 
+## SSH 
 
 - Mobaxterm 
 [How To SSH into EC2 Instance Using MobaXterm | AWS - FREE](https://youtu.be/hUoYVZlioRc)
@@ -183,7 +183,8 @@ HAPPY LEARNING 📌
 [How to Install PuTTY on Windows + SSH Connections Using PuTTY on Windows - FREE](https://youtu.be/umFEuHWJW3w)
 [How to Use Putty to SSH on Windows - FREE](https://youtu.be/pWDHUlvcAsg)
 
-### Amazon Web Services (AWS)
+
+## Amazon Web Services (AWS)
 
 - [AWS Certified Cloud Practitioner Training 2020 - Full Course - FREE](https://www.youtube.com/watch?v=3hLmDS179YE)
 
@@ -210,8 +211,9 @@ HAPPY LEARNING 📌
 - [AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka - FREE](https://youtu.be/k1RI5locZE4)
 
 - [AWS Certified Developer Associate Practice Exams - PAID - EXAM PRACTICE](https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-amazon/) 
- 
-### Microsoft Azure:
+
+
+## Microsoft Azure:
 
 - [Microsoft Azure Fundamentals Certification Course - FREE -AZ900](https://www.youtube.com/watch?v=NKEFWyqJ5XA) 
 
@@ -221,7 +223,8 @@ HAPPY LEARNING 📌
 
 - [Microsoft Azure Exam AZ-104 Certification - Azure Admin Associate 104 - Paid — WhizLabs EXAM PRACTICE](https://www.whizlabs.com/microsoft-azure-certification-az-104/) 
 
-### Google Cloud Platform (GCP)
+
+## Google Cloud Platform (GCP)
 
 - [Google Cloud Associate Cloud Engineer - PAID](https://training.antonit.com/p/google-cloud-associate-cloud-engineer)
 
@@ -230,7 +233,7 @@ HAPPY LEARNING 📌
 - [Google Cloud Professional Cloud Architect - PAID - GCP Professional Cloud Architect by Antoni Tzavelas](https://training.antonit.com/p/google-cloud-professional-cloud-architect)
 
 
-### Yaml
+## Yaml
 
 - [YAML Tutorial for Beginners: Learn YAML in-depth for DevOps -FREE](https://youtu.be/GOk4IoYhM9U)
 
@@ -243,7 +246,7 @@ HAPPY LEARNING 📌
 - [Complete YAML Course - Beginner to Advanced for DevOps and more! - FREE](https://youtu.be/IA90BTozdow)
 
 
-### Kubernetes
+## Kubernetes
 
 - [Kubernetes Tutorial - FREE](https://www.tutorialspoint.com/kubernetes/index.htm)
 
@@ -270,7 +273,7 @@ HAPPY LEARNING 📌
 - [Kubernetes & Istio Service Mesh - FREE](https://www.youtube.com/playlist?list=PL34sAs7_26wPkw9g-5NQPP_rHVzApGpKP)
 
 
-### Helm
+## Helm
 
 - [What is Helm in Kubernetes? Helm and Helm Charts explained | Kubernetes Tutorial 23 - FREE](https://youtu.be/-ykwb1d0DXU)
 
@@ -283,7 +286,7 @@ HAPPY LEARNING 📌
 - [What is Helm? | Helm Concepts Explained | KodeKloud -FREE](https://youtu.be/kJscDZfHXrQ)
 
 
-### Managed containers (EKS/AKS/GKE)
+## Managed containers (EKS/AKS/GKE)
 
 - [AWS EKS Kubernetes-Masterclass | DevOps, Microservices - PAID](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/)
 
@@ -304,7 +307,7 @@ HAPPY LEARNING 📌
 - [Google Kubernetes Engine Tutorial | Kubernetes and Google Container Engine | Intellipaat -FREE](https://youtu.be/R_LaWVUo7Z4)
 
 
-### OpenShift
+## OpenShift
 
 - [Introduction to Red Hat OpenShift Container Platform -FREE](https://youtu.be/dAWPuqZwlOA)
 
@@ -313,7 +316,7 @@ HAPPY LEARNING 📌
 - [Ultimate Openshift (2021) Bootcamp by School of Devops - PAID](https://www.udemy.com/course/ultimate-openshift-bootcamp-by-school-of-devops/)
 
 
-### Terraform
+## Terraform
 
 - [Learn DevOps: Infrastructure Automation With Terraform -PAID](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
 
@@ -367,7 +370,7 @@ HAPPY LEARNING 📌
 ## JavaScript
 
 
-###  Ansible
+##  Ansible
 
 - [Ansible Full Course | Ansible Tutorial For Beginners | Learn Ansible Step By Step | Simplilearn - FREE](https://youtu.be/EcnqJbxBcM0)
 
@@ -385,14 +388,14 @@ HAPPY LEARNING 📌
 
 
 
-### Puppet
+## Puppet
 
 
-### Chef
+## Chef
 
 
 
-### Prometheus
+## Prometheus
 
 - [Prometheus | The Complete Hands-On for Monitoring & Alerting - PAID](https://www.udemy.com/course/prometheus-course/)
 
@@ -406,26 +409,26 @@ HAPPY LEARNING 📌
 
 
 
-### Grafana
+## Grafana
 
 
 
 
 
-### DataDog
+## DataDog
 
 
 
-### New Relic
+## New Relic
 
 
 
 
-### ELK
+## ELK
 
 
 
-### Splunk
+## Splunk
 
 - [Full Course | Splunk Core Certified User| Splunk Fundamentals 1 | Detailed explanation with examples - FREE](https://www.youtube.com/watch?v=qmzsu-2Kkqw)
 
@@ -437,7 +440,7 @@ HAPPY LEARNING 📌
 
 
 
-### Window Server (Optional)
+## Window Server (Optional)
 
 - [Complete Windows Server Administration Course - PAID](https://www.udemy.com/course/complete-windows-server-2016-administration-course/)
 
@@ -451,15 +454,15 @@ HAPPY LEARNING 📌
 
 
 
-### Cloud Security
+## Cloud Security
 
 
 
-### DevSecOps
+## DevSecOps
 
 
 
-### Free DevOps Training Courses + Certificate
+## Free DevOps Training Courses + Certificate
 
 1. [Intellipaat](https://intellipaat.com/academy/course/devops-free-course/)
 
@@ -483,7 +486,7 @@ HAPPY LEARNING 📌
 
 
 
-### DevOps Certification Path Way
+## DevOps Certification Path Way
 
 [DevOps Certificate](https://devopscube.com/best-devops-certifications/)
 
