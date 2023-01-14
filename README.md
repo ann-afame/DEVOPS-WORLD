@@ -1,4 +1,4 @@
-HAPPY LEARNING 📌
+# HAPPY LEARNING 📌
 
 
 
@@ -95,7 +95,21 @@ HAPPY LEARNING 📌
 
 ## webserver
 
+- [Web Server and Application Server | Explained - FREE](https://youtu.be/thJSev60yfg)
 
+- [The NGINX Crash Course](https://youtu.be/7VAI73roXaY)
+
+- [NGINX Fundamentals: High Performance Servers from Scratch](https://www.udemy.com/course/nginx-fundamentals/)
+
+- [Maven Full Course - Learn Maven From Scratch In 2 Hours | Maven Tutorial For Beginners | Simplilearn - FREE](https://youtu.be/p0LPfK_oNCM)
+
+- [Maven Tutorial for Beginners - 1 | Introduction to Maven | Maven Training | DevOps Tools](https://youtu.be/qkA3szVf8fg)
+
+- [What is Apache Tomcat](https://youtube.com/playlist?list=PLzS3AYzXBoj_UYkx1Dmby3k_VZC8HQdHa)
+
+- [web server](https://www.techtarget.com/whatis/definition/Web-server)
+
+- [Web Servers](https://www.javatpoint.com/web-servers)
 
 
 
@@ -112,9 +126,21 @@ HAPPY LEARNING 📌
 - [MySQL Tutorial for Beginners [Full Course] - FREE](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
 
+## SonarQube
+
+- [What is SonarQube | Introduction SonarQube | SonarQube Tutorial | SonarQube Basics | Intellipaat - FREE](https://youtu.be/efHas35j_yg)
+
+- [Sonarqube Tutorials - FREE](https://youtube.com/playlist?list=PLDhScTEBdP8ym3PaMkkTVuaaVHV2ktI0j)
+
+- [Sonarqube Advance Tutorial - FREE](https://youtube.com/playlist?list=PLDhScTEBdP8zjA3867suQM59b-pEUoXVK)
+
+
+
 ## Artifact Repository Manager
 
 - [Nexus Repository | Nexus Repository DevOps | DevOps Tool | Intellipaat - FREE](https://youtu.be/yZFvJEygn_g)
+
+- [Jfrog | Jfrog Artifactory | Jfrog Artifactory Tutorial | Artifactory Tutorial | Intellipaat](https://youtu.be/a1B1jXXVzPQ)
 
 
 ## Docker
@@ -139,9 +165,21 @@ HAPPY LEARNING 📌
 
 - [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers - FREE](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
+- [Docker Tutorial for Beginners | Docker Full Course | Access to FREE LABS - FREE](https://youtu.be/zJ6WbK9zFpI)
+
 
 
 ## Docker Swarm
+
+- [Docker Swarm Step by Step | What is Docker Swarm | How to create Docker Swarm | Intellipaat - FREE](https://youtu.be/74p7csxKN8M)
+
+- [Docker Swarm Tutorial For Beginners | Docker Swarm Explained | Docker Training | Learn DevOps Easy - FREE](https://www.youtube.com/watch?v=YYfefejSgWY)
+
+- [Docker Swarm Step-By-Step | What Is Docker Swarm | How To Create A Docker Swarm | Great Learning - FREE](https://youtu.be/W-DD3QPlRHo)
+
+- [What is Docker Swarm: Modes, Example and Working - FREE](https://www.simplilearn.com/tutorials/docker-tutorial/docker-swarm)
+
+- [https://www.simplilearn.com/tutorials/docker-tutorial/docker-swarm](https://k21academy.com/docker-kubernetes/docker-swarm/)
 
 
 
@@ -152,6 +190,8 @@ HAPPY LEARNING 📌
 - [Complete Jenkins Tutorial | Learn Jenkins From Scratch In 3 Hours - FREE](https://youtu.be/nCKxl7Q_20I)
 
 - [Jenkins Full Course - Jenkins Tutorial For Beginners - Jenkins Tutorial - FREE](https://www.youtube.com/watch?v=FX322RVNGj4)
+
+- [Learn Jenkins! Complete Jenkins Course - Zero to Hero](https://youtu.be/6YZvp2GwT0A)
 
 
 ## GitLab CI
@@ -169,7 +209,11 @@ HAPPY LEARNING 📌
 
 ## Team City
 
+- [TeamCity | TeamCity Tutorial for Beginners | TeamCity Build Steps | DevOps Tools | Intellipaat - FREE](https://youtu.be/Q_oandwGYfk)
 
+- [Getting Started With Kotlin DSL in TeamCity: From Zero to Hero - TeamCity Technology Day - FREE](https://youtu.be/AEYjAnR2-MY)
+
+- [TeamCity Fundamental Tutorial for Beginners with Demo | DevOpsSchool - FREE](https://youtu.be/OCnbC7wtXys)
 
 
 
@@ -215,13 +259,29 @@ HAPPY LEARNING 📌
 
 ## Microsoft Azure:
 
-- [Microsoft Azure Fundamentals Certification Course - FREE -AZ900](https://www.youtube.com/watch?v=NKEFWyqJ5XA) 
+-[Azure Course | Microsoft Azure Full Course 2023 | Azure Tutorial For Beginners | Intellipaat -FREE](https://youtu.be/hG-wgtKJ9Es)
 
-- [Azure Administrator Certification - FREE - AZ104](https://www.youtube.com/watch?v=10PbGbTUSAg) 
+- [Microsoft Azure Fundamentals Certification Course - FREE -AZ900](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
-- [Microsoft Azure Exam AZ-900 Certification - Azure Fundamentals 900 - Paid — WhizLabs EXAM PRACTICE](https://www.whizlabs.com/microsoft-azure-certification-az-900/) 
+- [Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam - FREE](https://youtu.be/10PbGbTUSAg)
 
-- [Microsoft Azure Exam AZ-104 Certification - Azure Admin Associate 104 - Paid — WhizLabs EXAM PRACTICE](https://www.whizlabs.com/microsoft-azure-certification-az-104/) 
+- [Azure Developer Associate (AZ-204) — Full Course Pass the Exam! - FREE](https://youtu.be/jZx8PMQjobk)
+
+- [Azure Administrator Certification - AZ104 - FREE](https://www.youtube.com/watch?v=10PbGbTUSAg) 
+
+- [Microsoft Azure Exam AZ-900 Certification - Azure Fundamentals 900  — WhizLabs EXAM PRACTICE  - PAID](https://www.whizlabs.com/microsoft-azure-certification-az-900/) 
+
+- [Azure Administrator Training Course | AZ-103 Training | Intellipaat - FREE](https://youtu.be/ki6rJwXzTSM)
+
+- [Microsoft Azure DevOps Solutions [Exam AZ-400] Full Course -FREE](https://youtu.be/2HlRaIPo4W8)
+
+- [Microsoft Azure Exam AZ-104 Certification - Azure Admin Associate 104 -WhizLabs EXAM PRACTICE - PAID](https://www.whizlabs.com/microsoft-azure-certification-az-104/) 
+
+- [Microsoft Azure Tutorial for Beginners: Learn Basics in 1 Day - FREE](https://www.guru99.com/microsoft-azure-tutorial.html)
+
+- [AZ-900 Microsoft Azure Fundamentals - FREE](https://www.udemy.com/course/az-900-azure-tutorial/)
+
+
 
 
 ## Google Cloud Platform (GCP)
