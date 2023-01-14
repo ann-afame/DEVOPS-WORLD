@@ -334,7 +334,7 @@ HAPPY LEARNING 📌
 - [Infrastrcuture as Code - Playlist - FREE](https://www.youtube.com/playlist?list=PLedHPfK7UwDJdS7zTgJv8PWR9UBcPbgUO) 
 
 
-### Python
+## Python
 
 - [Python Tutorial - Python Full Course for Beginners - FREE](https://youtu.be/_uQrJ0TkZlc)
 
@@ -359,12 +359,12 @@ HAPPY LEARNING 📌
 - [Python Documentaions](https://docs.python.org/)
 
 
-### GoLang
+## GoLang
 
 - [Learn Go Programming - Golang Tutorial for Beginners - FREE](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
 
-### JavaScript
+## JavaScript
 
 
 ###  Ansible
@@ -482,8 +482,10 @@ HAPPY LEARNING 📌
 10. [Exam Readiness: AWS Certified DevOps Engineer ](https://explore.skillbuilder.aws/learn/course/external/view/elearning/74/exam-readiness-aws-certified-devops-engineer-professional?lado=tile&tile=dt) 
 
 
+
 ### DevOps Certification Path Way
 
+[DevOps Certificate](https://devopscube.com/best-devops-certifications/)
 
 ![WhatsApp Image 2023-01-14 at 18 12 34](https://user-images.githubusercontent.com/85270361/212485937-b82b9821-bcf8-4366-98a5-e10e166489c1.jpg)
 
@@ -493,7 +495,7 @@ HAPPY LEARNING 📌
 
 
 
-
+https://www.cloudskillsboost.google/paths/9
 
 
 ### More-open source tools and more things to consider learning
@@ -506,4 +508,4 @@ HAPPY LEARNING 📌
 
 
 
-- [Google Cloud Digital Leader Certification Course - FREE](https://www.youtube.com/watch?v=UGRDM86MBIQ) 
+ 
