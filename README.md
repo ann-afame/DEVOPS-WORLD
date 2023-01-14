@@ -20,6 +20,8 @@ HAPPY LEARNING 📌
 
 - [Networking Tutorial for Beginners || Computer Networking Full Course by Network Engineer. - FREE](https://youtu.be/0uflG0SemyM)
 
+- [Networking Animated Videos - FREE](https://youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg)
+
 - [DevOps - Networking knowledge base - FREE](https://youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H)
 
 - [Network Fundementals Playlists - FREE](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) 
@@ -424,6 +426,73 @@ HAPPY LEARNING 📌
 
 
 ### Splunk
+
+- [Full Course | Splunk Core Certified User| Splunk Fundamentals 1 | Detailed explanation with examples - FREE](https://www.youtube.com/watch?v=qmzsu-2Kkqw)
+
+- [Splunk Admin Tutorials for Beginners | Linux Commands for Splunk | Create Google Cloud Storage & VM - FREE](https://youtube.com/playlist?list=PL5nViEmyYI0YX-hm7z5kH7IwFakXtZKZB)
+
+- [Splunk Tutorial | What Is Splunk | Splunk Tutorial For Beginners | Splunk Careers | Intellipaat - FREE](https://youtu.be/ZlKPqjuM0wo)
+
+- [Complete Splunk Enterprise Certified Admin Course 2023 - PAID](https://www.udemy.com/course/the-splunk-enterprise-certified-admin-course-2022-with-labs/)
+
+
+
+### Window Server (Optional)
+
+- [Complete Windows Server Administration Course - PAID](https://www.udemy.com/course/complete-windows-server-2016-administration-course/)
+
+- [Windows Server Administration || for Beginners - FREE](https://youtu.be/RoI9RVU_Hu0)
+
+- [Active Directory Tutorial for Beginners - Live Training - FREE](https://youtu.be/h0QLtup0CWQ)
+
+- [Understanding Active Directory and Group Policy - FREE](https://youtu.be/Q4I2lKHboDw)
+
+- [Learn Windows Server 2022 (AD, DNS, GPO) Be a Great Admin! - FREE](https://www.udemy.com/course/server2022/)
+
+
+
+### Cloud Security
+
+
+
+### DevSecOps
+
+
+
+### Free DevOps Training Courses + Certificate
+
+1. [Intellipaat](https://intellipaat.com/academy/course/devops-free-course/)
+
+2. [Alison ](https://alison.com/tag/devops)
+
+3. [My great learning ](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-devops1)
+
+4. [Udemy ](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/)
+
+5. [Edureka ](https://www.edureka.co/free-course/learn-devops-basics-online)
+
+6. [FreeCodeCamp ](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
+
+7. [Learnvern ](https://www.learnvern.com/devops-course)
+
+8. [Microsoft Certified: DevOps Engineer Expert ](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
+
+9. [DevOps on AWS : ](https://explore.skillbuilder.aws/learn/course/external/view/elearning/2000/getting-started-with-devops-on-aws?lado=tile&tile=dt)
+
+10. [Exam Readiness: AWS Certified DevOps Engineer ](https://explore.skillbuilder.aws/learn/course/external/view/elearning/74/exam-readiness-aws-certified-devops-engineer-professional?lado=tile&tile=dt) 
+
+
+### DevOps Certification Path Way
+
+
+![WhatsApp Image 2023-01-14 at 18 12 34](https://user-images.githubusercontent.com/85270361/212485937-b82b9821-bcf8-4366-98a5-e10e166489c1.jpg)
+
+
+
+
+
+
+
 
 
 
