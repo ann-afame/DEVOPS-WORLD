@@ -179,7 +179,7 @@
 
 - [What is Docker Swarm: Modes, Example and Working - FREE](https://www.simplilearn.com/tutorials/docker-tutorial/docker-swarm)
 
-- [https://www.simplilearn.com/tutorials/docker-tutorial/docker-swarm](https://k21academy.com/docker-kubernetes/docker-swarm/)
+- [Docker Swarm: A Complete Guide for Beginners](https://k21academy.com/docker-kubernetes/docker-swarm/)
 
 
 
@@ -259,7 +259,7 @@
 
 ## Microsoft Azure:
 
--[Azure Course | Microsoft Azure Full Course 2023 | Azure Tutorial For Beginners | Intellipaat -FREE](https://youtu.be/hG-wgtKJ9Es)
+- [Azure Course | Microsoft Azure Full Course 2023 | Azure Tutorial For Beginners | Intellipaat -FREE](https://youtu.be/hG-wgtKJ9Es)
 
 - [Microsoft Azure Fundamentals Certification Course - FREE -AZ900](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
@@ -281,16 +281,35 @@
 
 - [AZ-900 Microsoft Azure Fundamentals - FREE](https://www.udemy.com/course/az-900-azure-tutorial/)
 
+- [Microsoft Azure fundamentals Az900 crash course - FREE](https://www.udemy.com/course/last-moment-revision-for-microsoft-azure-fundamentals-az900/)
+
+- [Deploy Azure Virtual Desktop for beginners - FREE](https://www.udemy.com/course/deploy-azure-virtual-desktop-in-less-than-45-minutes/)
+
+- [Azure DevOps Tutorial for Beginners | AZ- 400 | Azure DevOps Full Course - FREE](https://www.youtube.com/watch?v=ZVUAYNWOvaI)
 
 
 
 ## Google Cloud Platform (GCP)
 
+- [Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka -FREE](https://www.youtube.com/watch?v=IUU6OR8yHCc)
+
+- [Google Cloud Associate Cloud Engineer Course - Pass the Exam! - FREE](https://www.youtube.com/watch?v=jpno8FSqpc8)
+
+- [Google Cloud Platform Full Course | Google Cloud Platform Tutorial | Cloud Computing - FREE](https://www.youtube.com/watch?v=-pMtwYXSFK8)
+
 - [Google Cloud Associate Cloud Engineer - PAID](https://training.antonit.com/p/google-cloud-associate-cloud-engineer)
+
+- [Google Cloud Platform Tutorial for Beginners - Full Course - FREE](https://www.youtube.com/watch?v=G5w1rsFe-qA)
+
+- [Git Full Course - 6 Hours | Git Tutorial for Beginners [2023] | DevOps Tutorial | Edureka -FREE](https://www.youtube.com/watch?v=akD-DpolilE)
 
 - [Google Cloud Digital Leader Certification Course - FREE](https://www.youtube.com/watch?v=UGRDM86MBIQ)
 
+- [Google Cloud InDepth Tutorial | Google Cloud Platform Tutorial 2022 | Cloud Computing - FREE](https://youtu.be/Y4gb4Ce-I88)
+
 - [Google Cloud Professional Cloud Architect - PAID - GCP Professional Cloud Architect by Antoni Tzavelas](https://training.antonit.com/p/google-cloud-professional-cloud-architect)
+
+- []()
 
 
 ## Yaml
@@ -555,20 +574,127 @@
 
 
 
+## Bonus
 
+- [Harvard CS50 – Full Computer Science University Course](https://youtu.be/8mAITcNt710)
 
-
-https://www.cloudskillsboost.google/paths/9
-
-
-### More-open source tools and more things to consider learning
-
-- [Free Practice Exams for AWS, GCP and Azure -  Free practice exams video by Andrew Brown - PAID](https://www.youtube.com/watch?v=J4al_SZ6p5g) 
 
 - [ArgoCD Kubernetes - PAID](https://www.youtube.com/playlist?list=PL34sAs7_26wMW4bWKnMIfEd87aPuw75by) 
 
  
+## How to get a Job Fast
+
+1. Resume : While people tend to present an essay as a resume or some template they got online 🙅‍♀
+
+Hiring manager come across hundreds of resumes all the time, they don’t have time to read all the resumes. 
+
+First look at your resume will determine if they will go through it or not. So your resume pass through different stages before you get your first email. ⭐⭐⭐
+
+Go through this link to understand what your resume stands against. 👇👇👇👇
+
+
+[WHAT YOUR RESUME IS UP AGAINST](https://medium.com/@AnnFelix/what-your-resume-is-up-against-e6c96c1a88be)
+
+
+Tips for your résumé: ✅✅✅
+
+1. Tailor your resume to suit the position you are applying for
+
+2. Limit your resume to two pages
+
+3. Proofread your resume numerous times
+
+4. Keep your resume clear and concise
+
+5. Be honest
+
+6. Quantify your achievements 
+
+7. Use simple words and action verbs
+
+8. Include unpaid work that show off your skills
 
 
 
- 
+Resume Don’ts : ❌❌❌❌
+
+1. Don't include a picture of yourself
+
+2. Don't simply list job responsibilities 
+
+3. Don't include references
+
+4. Don't include hobbies or interests
+
+5. Don't use too many bullets
+
+6. Don't include unnecessary personal information
+
+7. Don't use an inappropriate email address
+
+
+
+
+2. LinkedIn: Why having a good LinkedIn profile is so important these days, people don’t tend to take it serious as they should. 💁‍♀
+
+Jobs these days require you submit your LinkedIn profile links . 
+
+LinkedIn as come to serve as a secret 🤫 background check for many companies. 
+
+Click on this link, to understand how important your LinkedIn profile is and ways to fix it. 
+👇👇👇👇
+
+[Your LinkedIn account is just as important as your RESUME](https://medium.com/@AnnFelix/your-linkedin-account-is-just-as-important-as-your-resume-5435145b904f)
+
+
+
+3. GitHub Account : Your GitHub might just be one of the place to land you your dream job. ✅
+
+Just imagine going for a devOps or developer role and you don’t have any projects to show off . 🙅‍♀🤦‍♀
+
+GitHub is not just about pushing codes, you can use GitHub to document your projects. ✅✅✅
+
+Documenting your projects on GitHub can be very handy, To show off to your future employer’s and for reference purposes. ✨✨✨🤩🤩
+
+Having many projects on your portfolio will give you an edge over someone without any projects to show off. 
+
+So make it a duty to document all your 
+projects. ✅✅✅
+
+
+Four Ace to Landing Your Dream Jobs
+
+• Learn The Skills
+                 ⬇
+• Work on Real Projects (Build Your Portfolio) 
+                 ⬇
+• Prep Your Resume and Your LinkedIn 
+                 ⬇
+• Start Applying 
+                 ⬇
+• Land your dream Jobs
+
+
+## SITE FOR RESUME
+
+- [Zety](https://zety.com/resume-builder)
+- [Resumonk](https://www.resumonk.com/)
+- [visualcv](https://www.visualcv.com/)
+- [cvmaker](https://www.cvmaker.com/)
+- [Resumegenius](https://resumegenius.com/)
+- [Resumebuilder](https://www.resumebuilder.com/)
+- [Enhancv](https://enhancv.com/)
+- [Resume.io](https://resume.io/)
+- [Novoresume](https://novoresume.com/)
+- [Canva](https://www.canva.com/create/resumes/)
+- [Adobe](https://www.adobe.com/express/create/resume)
+
+
+## SITE FOR INTERVIEW PREPARATION
+
+- [Ambitionbox](https://www.ambitionbox.com/about-us)
+- [Acetheinterview](https://www.acetheinterview.com/)
+- [Gainlo](http://www.gainlo.co/#!/)
+
+
+
