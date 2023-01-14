@@ -47,7 +47,7 @@
 
 
 
-## SHELL SCRITING
+## Shell Scripting
 
 - [Shell Scripting Crash Course - Beginner Level - FREE](https://youtu.be/v-F3YLd6oMw)
 
@@ -66,6 +66,29 @@
 - [Bash Scripting Full Course - FREE](https://youtu.be/e7BufAVwDiM)
 
 - [Shell Scripting Tutorial: How to Create Shell Script in Linux/Unix - FREE](https://www.guru99.com/introduction-to-shell-scripting.html)
+
+
+
+## Power Shell
+
+- [PowerShell For Beginners Full Course | PowerShell Beginner tutorial Full Course FREE](https://youtu.be/UVUd9_k9C6A)
+
+- [Powershell Training Full Course for Beginners [Tutorial] |Windows Powershell Training FREE](https://youtu.be/bPt6DH8NYPY)
+
+- [PowerShell Master Class - PowerShell Fundamentals FREE](https://youtu.be/sQm4zRvvX58)
+
+- [PowerShell and Active Directory Essentials FREE](https://youtu.be/-zDXTLiX_wk)
+
+- [PowerShell Made Easy FREE](https://youtu.be/b7SGPchYRn0)
+
+- [Learn PowerShell in Less Than 2 Hours FREE](https://youtu.be/ZOoCaWyifmI)
+
+- [PowerShell 7: Beginner To Advanced PAID](https://www.udemy.com/course/powershell-course/)
+
+- [Administration and Automation with Windows PowerShell PAID](https://www.udemy.com/course/administration-and-automation-with-windows-powershell/)
+
+- [https://www.udemy.com/course/administration-and-automation-with-windows-powershell/ PAID](https://www.udemy.com/course/master-powershell-from-basic-to-professional-level/)
+
 
 
 ## Git (version control)
@@ -93,6 +116,7 @@
 - [Complete Git and GitHub Tutorial - FREE](https://youtu.be/apGV9Kg7ics)
 
 - [Git Started with GitHub - FREE](https://www.udemy.com/course/git-started-with-github/)
+
 
 
 ## webserver
@@ -566,16 +590,31 @@
 
 ## DataDog
 
+- [Datadog Advance Tutorial for Beginners with Demo FREE](https://youtu.be/0p9JJobuVTg)
+
+- [Datadog Fundamental | Datadog Beginners Tutorial | Debug.School FREE](https://youtu.be/1hp5ZH4dby8)
 
 
 ## New Relic
 
+- [New Relic Advance Tutorial for Beginners with Demo FREE](https://youtu.be/tO-QsbpI-78)
 
+- [New Relic Fundamentals Platform Training Part - 1 FREE](https://youtu.be/-rzGZRgliSs)
+
+- [New Relic Fundamentals Platform Training Part - 2 FREE](https://youtu.be/RC66UI9G9AI)
+
+- [New Relic APM: Application Performance Management for DevOps PAID](https://www.udemy.com/course/new-relic-apm-application-performance-management-for-devops/)
 
 
 ## ELK
 
+- [Elasticsearch Tutorial | ELK Stack Tutorial | Intellipaat FREE](https://youtu.be/cC4GGJ0JsSE)
 
+- [ELK Stack Tutorial For Beginners | Elastic Stack Tutorial | DevOps | Intellipaat FREE](https://youtu.be/29TwUCHILhM)
+
+- [Elasticsearch Tutorial for Beginners FREE](https://youtu.be/kjN7mV5POXc)
+
+- [Beginner's Crash Course to Elastic Stack - Part 1: Intro to Elasticsearch and Kibana FREE](https://youtu.be/gS_nHTWZEJ8)
 
 ## Splunk
 
@@ -811,5 +850,7 @@ Four Ace to Landing Your Dream Jobs
 - [AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS FREE](https://youtu.be/NwzJCSPSPZs)
 
 - [DevOps Project | Creating CI CD Pipeline Using Jenkins | Intellipaat FREE](https://youtu.be/7lazzvm1ljo)
+
+- [Mega Real-time End to End DevOps CI/CD Project | Git | Jenkins | Nexus | SonarQube | HandsOn Lab - I](https://youtu.be/Yk7k3yEguQA)
 
 
