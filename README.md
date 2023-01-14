@@ -543,7 +543,7 @@
 
 - [Master Puppet for DevOps Success - PAID](https://www.udemy.com/course/power-puppet/)
 
--[Master Automation with Ansible and Puppet: 4-in-1 - PAID](https://www.udemy.com/course/master-automation-with-ansible-and-puppet-4-in-1/)
+- [Master Automation with Ansible and Puppet: 4-in-1 - PAID](https://www.udemy.com/course/master-automation-with-ansible-and-puppet-4-in-1/)
 
 
 ## Chef
@@ -644,9 +644,33 @@
 
 ## Cloud Security
 
+- [Cloud Security Full Course | Cloud Security Fundamentals | Cloud Security Training | Intellipaat FREE](https://youtu.be/Ijkvx1u0w6o)
+
+- [Cloud Security Tutorial | Cloud Security Fundamentals | What is Cloud Security | Edureka FREE](https://youtu.be/0lw4KU5wHsk)
+
+- [Introduction to Cloud Security FREE](https://youtube.com/playlist?list=PLsfnCRA9QVnSj4gbP5W1W1CXjPRhe1oE2)
+
+- [Certified Cloud Security Professional (CCSP) PAID](https://www.udemy.com/course/certified-cloud-security-professional/)
+
+- [Certified Cloud Security Officer (CCSO) PAID](https://www.udemy.com/course/certified-cloud-security-officer-ccso/)
+
 
 
 ## DevSecOps
+
+- [DevSecOps Full Course | DevSecOps Tutorial For Beginners | DevSecOps Training | Intellipaat FREE ](https://youtu.be/D7Nhna43ztg)
+
+- [Overview of DevSecOps | What is DevSecOps | DevSecOps : What, Why and How | Infosectrain FREE](https://youtu.be/KbmmYOhL4Jg)
+
+- [DevSecOps - the What, Why & How FREE](https://youtu.be/G1l56vDDqVk)
+
+- [DevSecOps - Kubernetes DevOps & Security with Hands-On Labs PAID](https://www.udemy.com/course/kubernetes-devsecops/)
+
+- [DevSecOps : Master Securing CI/CD | DevOps Pipeline(2023) PAID](https://www.udemy.com/course/devsecops/)
+
+- [DevSecOps with Jenkins, Kubernetes, Terraform & AWS PAID](https://www.udemy.com/course/devsecops-with-terraform-kubernetes-jenkins-aws/)
+
+- [Ultimate DevSecOps With Real World Scenarios PAID](https://www.udemy.com/course/ultimate-devsecops-with-real-world-scenarios/)
 
 
 
@@ -852,5 +876,9 @@ Four Ace to Landing Your Dream Jobs
 - [DevOps Project | Creating CI CD Pipeline Using Jenkins | Intellipaat FREE](https://youtu.be/7lazzvm1ljo)
 
 - [Mega Real-time End to End DevOps CI/CD Project | Git | Jenkins | Nexus | SonarQube | HandsOn Lab - I](https://youtu.be/Yk7k3yEguQA)
+
+- [CICD pipeline for Java application to deploy on kubernetes cluster using Jenkins | Devops Project FREE](https://youtu.be/adG0vq5boL8)
+
+- [Setup EKS Cluster using eksctl and Deploy Springboot Microservices into EKS using Jenkins Pipeline FREE](https://youtu.be/C1BlN66s9yo)
 
 
