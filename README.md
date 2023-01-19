@@ -883,6 +883,13 @@ Four Ace to Landing Your Dream Jobs
 
 
 
+## AWS Certificaation Roadmap
+
+
+![Available-AWS-Certifications-graphic@2x-1](https://user-images.githubusercontent.com/85270361/213398206-e4998714-0aae-40d7-a6d0-eaa34c85bd04.png)
+
+
+
 ##  AWS DUMPS
 
 1. [CLF-C01:AWS Certified Cloud Practitioner](https://www.exam-answer.com/amazon/clf-c01/question1)
