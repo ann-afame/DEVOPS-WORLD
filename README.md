@@ -882,3 +882,29 @@ Four Ace to Landing Your Dream Jobs
 - [Setup EKS Cluster using eksctl and Deploy Springboot Microservices into EKS using Jenkins Pipeline FREE](https://youtu.be/C1BlN66s9yo)
 
 
+
+# DUMPS
+
+1. [CLF-C01:AWS Certified Cloud Practitioner](https://www.exam-answer.com/amazon/clf-c01/question1)
+
+2. [SAA-C03:AWS Certified Solutions Architect - Associate](https://www.exam-answer.com/amazon/saa-c03/question1)
+
+3. [SAP-C01:AWS Certified Solutions Architect - Professional]
+(https://www.exam-answer.com/amazon/sap-c01/question1)
+
+4. [SOA-C02:AWS Certified SysOps Administrator - Associate](https://www.exam-answer.com/amazon/soa-c02/question1)
+
+5. [DVA-C01:AWS Certified Developer - Associate]
+(https://www.exam-answer.com/amazon/dva-c01/question1)
+
+6. [DOP-C01:AWS Certified DevOps Engineer - Professional](https://www.exam-answer.com/amazon/dop-c01/question1)
+
+7. [DBS-C01:AWS Certified Database - Specialty](https://www.exam-answer.com/amazon/dbs-c01/question1)
+
+8. [BDS-C00:AWS Certified Big Data - Specialty](https://www.exam-answer.com/amazon/bds-c00/question1)
+
+9. [ANS-C01:AWS Certified Advanced Networking - Specialty](https://www.exam-answer.com/amazon/ans-c01/question1)
+
+10. [SCS-C01:AWS Certified Security - Specialty](https://www.exam-answer.com/amazon/scs-c01/question1)
+
+11. [MLS-C01:AWS Certified Machine Learning - Specialty](https://www.exam-answer.com/amazon/mls-c01/question1)
