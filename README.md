@@ -889,13 +889,11 @@ Four Ace to Landing Your Dream Jobs
 
 2. [SAA-C03:AWS Certified Solutions Architect - Associate](https://www.exam-answer.com/amazon/saa-c03/question1)
 
-3. [SAP-C01:AWS Certified Solutions Architect - Professional]
-(https://www.exam-answer.com/amazon/sap-c01/question1)
+3. [SAP-C01:AWS Certified Solutions Architect - Professional](https://www.exam-answer.com/amazon/sap-c01/question1)
 
 4. [SOA-C02:AWS Certified SysOps Administrator - Associate](https://www.exam-answer.com/amazon/soa-c02/question1)
 
-5. [DVA-C01:AWS Certified Developer - Associate]
-(https://www.exam-answer.com/amazon/dva-c01/question1)
+5. [DVA-C01:AWS Certified Developer - Associate](https://www.exam-answer.com/amazon/dva-c01/question1)
 
 6. [DOP-C01:AWS Certified DevOps Engineer - Professional](https://www.exam-answer.com/amazon/dop-c01/question1)
 
