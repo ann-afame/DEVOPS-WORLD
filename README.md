@@ -891,9 +891,9 @@ Four Ace to Landing Your Dream Jobs
 
 
 
-## List of all Amazon exams
+## List of all Amazon Exams
 
-### EXAMTOPICS DUMP
+### EXAM-TOPICS DUMP
 
 1. [ANS-C00: AWS Certified Advanced Networking - Specialty](https://www.examtopics.com/exams/amazon/ans-c00/view/)
 2. [AWS Certified Alexa Skill Builder - Specialty: AWS Certified Alexa Skill Builder - Specialty](https://www.examtopics.com/exams/amazon/aws-certified-alexa-skill-builder-specialty/view/)
@@ -914,7 +914,7 @@ Four Ace to Landing Your Dream Jobs
 17. [AWS-SysOps: AWS Certified SysOps Administrator](https://www.examtopics.com/exams/amazon/aws-sysops/view/)
 
 
-### GREATLEARNING DUMP
+### ALISON DUMP
 
 1. [CLF-C01:AWS Certified Cloud Practitioner](https://www.exam-answer.com/amazon/clf-c01/question1)
 
