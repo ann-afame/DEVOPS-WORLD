@@ -890,7 +890,31 @@ Four Ace to Landing Your Dream Jobs
 
 
 
-##  AWS DUMPS
+
+## List of all Amazon exams
+
+### EXAMTOPICS DUMP
+
+1. [ANS-C00: AWS Certified Advanced Networking - Specialty](https://www.examtopics.com/exams/amazon/ans-c00/view/)
+2. [AWS Certified Alexa Skill Builder - Specialty: AWS Certified Alexa Skill Builder - Specialty](https://www.examtopics.com/exams/amazon/aws-certified-alexa-skill-builder-specialty/view/)
+3. [AWS Certified Big Data - Specialty: exam](https://www.examtopics.com/exams/amazon/aws-certified-big-data-specialty/view/)
+4. [AWS Certified Cloud Practitioner: AWS Certified Cloud Practitioner (CLF-C01) ](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/)
+5. [AWS Certified Data Analytics - Specialty: AWS Certified Data Analytics - Specialty (DAS-C01)](https://www.examtopics.com/exams/amazon/aws-certified-data-analytics-specialty/view/)
+6. [AWS Certified Database - Specialty: AWS Certified Database - Specialty ](https://www.examtopics.com/exams/amazon/aws-certified-database-specialty/view/)
+7. [AWS Certified Developer Associate: AWS Certified Developer Associate ](https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/view/)
+8. [AWS Certified Machine Learning - Specialty: AWS Certified Machine Learning - Specialty (MLS-C01)](https://www.examtopics.com/exams/amazon/aws-certified-machine-learning-specialty/view/)
+9. [AWS Certified SAP on AWS - Specialty PAS-C01: AWS Certified SAP on AWS - Specialty PAS-C01](https://www.examtopics.com/exams/amazon/aws-certified-sap-on-aws-specialty-pas-c01/view/)
+10. [AWS Certified Security - Specialty: AWS Certified Security - Specialty ](https://www.examtopics.com/exams/amazon/aws-certified-security-specialty/view/)
+11. [AWS Certified Solutions Architect - Associate SAA-C02: AWS Certified Solutions Architect - Associate SAA-C02](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/view/)
+12. [AWS Certified Solutions Architect - Associate SAA-C03: AWS Certified Solutions Architect - Associate SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/view/) 
+13. [AWS Certified Solutions Architect - Professional: AWS Certified Solutions Architect - Professional](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/) 
+14. [AWS Certified Solutions Architect - Professional SAP-C02: AWS Certified Solutions Architect - Professional SAP-C02](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional-sap-c02/view/)
+15. [AWS Certified SysOps Administrator - Associate: AWS Certified SysOps Administrator - Associate (SOA-C02) ](https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/)
+16. [AWS DevOps Engineer Professional: AWS DevOps Engineer - Professional (DOP-C01) ](https://www.examtopics.com/exams/amazon/aws-devops-engineer-professional/)
+17. [AWS-SysOps: AWS Certified SysOps Administrator](https://www.examtopics.com/exams/amazon/aws-sysops/view/)
+
+
+### GREATLEARNING DUMP
 
 1. [CLF-C01:AWS Certified Cloud Practitioner](https://www.exam-answer.com/amazon/clf-c01/question1)
 
