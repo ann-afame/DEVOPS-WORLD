@@ -10,47 +10,30 @@
 ## Recommended RoadMap:
 
 Follow the Roadmap: 
-
-1. Linux
-
-2. Shell Scripting
-
-3. Git
-
-4. Maven
-
-5. Tomcat
-
-6. Sonarqube
-
-7. Nexus
-
-8. Docker
-
-9. Jenkins
-
-10. AWS / Azure / GCP
-
-11. Kubernetes
-
-12. Terraform
-
-13. Python
-
-14. Ansible
-
-15. Prometheus
-
-16. Grafana
-
-17. Projects
-
-18. Projects Documentation on GitHub
-
-19. Resume and LinkedIn Profile Fixing
-
-20. Starting Applying for Jobs
-
+```
+1. Pre-requisite
+2. Networking
+3. Linux
+4. Shell Scripting
+5. Git
+6. Maven
+7. Tomcat
+8. Sonarqube
+9. Nexus
+10. Docker
+11. Jenkins
+12. AWS / Azure / GCP
+13. Kubernetes
+14. Terraform
+15. Python
+16. Ansible
+17. Prometheus
+18. Grafana
+19. Projects
+20. Projects Documentation on GitHub
+21. Resume and LinkedIn Profile Fixing
+22. Starting Applying for Jobs
+```
 
 ![WhatsApp Image 2023-01-22 at 08 43 29](https://user-images.githubusercontent.com/85270361/213905861-91ddc00c-a15d-4286-94b1-3856f4dc853f.jpg)
 
