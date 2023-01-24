@@ -50,3 +50,34 @@
 ## 10. Can you explain the concept of "blue-green deployment"?
 
 • Blue-green deployment is a technique for rolling out updates to a production environment by maintaining two separate production environments, one "blue" and one "green". The "green" environment is updated with the new version of the application while the "blue" environment continues to handle production traffic
+
+
+## 11.  What is your experience with version control systems such as Git?
+
+My experience with version control systems such as Git is extensive. I have used Git for several years in various projects and am well-versed in its features and commands. I am also familiar with other version control systems like SVN and Mercurial.
+
+
+## 12. How do you handle deployments in a continuous integration and continuous delivery (CI/CD) pipeline?
+
+I handle deployments in a continuous integration and continuous delivery (CI/CD) pipeline by firstly by creating a staging environment where the code is tested and then deploying it to the production environment if it passes all the test. I use tools like Jenkins, Travis CI, and CircleCI to automate the process.
+
+
+## 13.  How do you ensure security in your production environments?
+
+Ensuring security in production environments is a top priority. I follow best practices such as implementing network segmentation, using encrypted communication, and regularly patching systems. I also use tools such as security scanners, firewalls, and intrusion detection systems to identify and mitigate potential threats.
+
+
+## 14.  How do you monitor and troubleshoot production issues?
+
+I monitor and troubleshoot production issues by using monitoring and log management tools like Prometheus, Grafana, and ELK Stack. Additionally, I use APM tools like New Relic and AppDynamics to understand the performance of the application and troubleshoot issues.
+
+
+## 15.  Have you ever implemented a load balancer in a production environment? If so, which one and why?
+
+I have implemented load balancers in production environments using tools such as HAProxy and NGINX. I chose these tools because they are open-source, highly configurable, and widely used in the industry.
+
+
+## 16.  How do you handle rollbacks in a production environment?
+
+I handle rollbacks in a production environment by maintaining a separate environment for rollbacks and having a clear rollback plan in place. Additionally, I use tools such as Ansible and Terraform to automate the process.
+
